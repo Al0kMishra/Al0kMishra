@@ -8,9 +8,9 @@ B.Tech Computer Science · AI/ML · DSA · Backend
 
 ```python
 alok = {
-    "college"   : "B.Tech CSE — Third Year",
-    "interests" : ["Machine Learning", "Data Structures & Algorithms", "Backend Dev"],
-    "skills"    : ["Python", "Java", "C", "MySQL", "Git"],
+    "college"   : "UPES Dehradun",
+    "interests" : ["Machine Learning", "Data Analysis", "Data Structures & Algorithms", "softwere dev"],
+    "skills"    : ["Python", "Java", "C", "MySQL",],
     "currently" : "Building projects at the intersection of ML and systems",
 }
 ```
@@ -72,14 +72,6 @@ alok = {
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Al0kMishra&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al0kMishra&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
----
 
 ### Connect
 
